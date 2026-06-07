@@ -1,4 +1,6 @@
 # LAB-6-Online-examination-system
+## NAME   : BHUVANESH KUMAR R
+## REG NO :212223040027
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
 ### PROBLEM STATEMENT
@@ -16,31 +18,23 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+## USE CASE DIAGRAM:
+![usecase6](https://github.com/user-attachments/assets/1668041e-bf43-4620-87ef-3acfb41820b5)
 
-## USECASE DIAGRAM :
-![Screenshot 2024-04-20 113835](https://github.com/23003324/LAB-6-Online-examination-system/assets/140035234/ce4dbc43-596c-4272-b576-94ab4a98dd03)
+## CLASS DIAGRAM:
+![class6](https://github.com/user-attachments/assets/714adf7b-ec18-455e-9970-ce324f733d68)
 
+## PACKAGE DIAGRAM:
+![package6](https://github.com/user-attachments/assets/e9b9bd7c-6390-4857-99f6-b77ec9d8a049)
 
-## CLASS DIAGRAM :
-![Screenshot 2024-04-20 114537](https://github.com/23003324/LAB-6-Online-examination-system/assets/140035234/a4cc032f-e41f-485d-b32d-200d2e67e3db)
+## SEQUENCE DIAGRAM:
+![sequence6](https://github.com/user-attachments/assets/f24ce741-9493-4850-be4b-a4ca43df532e)
 
+## ACTIVITY DIAGRAM:
+![activity6](https://github.com/user-attachments/assets/fff694f8-8024-439c-8c26-5f160697ab16)
 
-## SEQUENCE DIAGRAM :
-![Screenshot 2024-04-20 114140](https://github.com/23003324/LAB-6-Online-examination-system/assets/140035234/d97301f1-b1b4-42b7-bdcb-cfc3e930752d)
-
-
-## ACTIVITY DIAGRAM :
-![Screenshot 2024-04-20 114227](https://github.com/23003324/LAB-6-Online-examination-system/assets/140035234/aea51de1-0a29-4f3e-8f8b-852c242a4eed)
-
-
-## COMMUNICATION DIAGRAM :
-![Screenshot 2024-04-20 114204](https://github.com/23003324/LAB-6-Online-examination-system/assets/140035234/0d05b1f6-3c25-4ad3-a59d-7b836a851281)
-
-
-## PACKAGE DIAGRAM :
-![Screenshot 2024-04-20 114107](https://github.com/23003324/LAB-6-Online-examination-system/assets/140035234/9d521745-cc0c-4b2b-9103-0763bc061bee)
-
-
+## COMMUNICATION DIAGRAM:
+![comm6](https://github.com/user-attachments/assets/e6fc490d-31c9-4891-98b4-720740549df7)
 
 
 ### RESULT:
